@@ -167,7 +167,7 @@ Generated Files
 Use longer timeouts on mobile
 ```bash
 python cekbughost.py targets.txt -t 20 -d 1.5
-```bash
+```
 
 Check your Python version
 ```bash
@@ -204,6 +204,8 @@ MIT License - See LICENSE file for details.
 🤝 Contributing
 
 Feel free to submit issues and pull requests!
+
+---
 
 <div align="center">
 
